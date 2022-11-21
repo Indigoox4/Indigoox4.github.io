@@ -4,7 +4,7 @@
  <a href="link"> </a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> My Projects: <br> <a href="https://indigoox4.github.io/Text-Encrypt-Decrypt.html">Text Encryption/Decryption 128 bit</a> <br> <a href="https://indigoox4.github.io/Linkevertise-Bypasser.html">Linkvertise Bypasser</a>  <br> <a href="https://indigoox4.github.io/fix%20268.html">Fix Roblox 268 Error!</a> <br> <a href="https://indigoox4.github.io/update.html">Update For Your Software!  </a> <br> <a  </a>.</p>
 
-<!-- slightdelayhere-->need help ?feel free to send me an email at<!-- longlonglongcomment --> ><a href="mailto:indigoox44@gmail.com"<p>Click to Send Email</a></p>
+<!-- slightdelayhere-->need help ?feel free to send me an email at<!-- longlonglongcomment --> <p><a href="mailto:indigoox44@gmail.com">Click to send email</a></p>
 
 <p>Cheers!</p>
 
