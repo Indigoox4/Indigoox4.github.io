@@ -1,4 +1,4 @@
-<span id="a">Indigoo@</span>:<span id="b">~</span><span id="c">$</span> cd Indigoo/<!-- kjsdfhkjdhsfkjdshfkj -->Hi
+<span id="a">Indigoo@</span>:<span id="b">~</span><span id="c">$</span> cd Indigoo/<!-- -->Hi
 <span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
