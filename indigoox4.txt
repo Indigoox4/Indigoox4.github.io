@@ -1,7 +1,6 @@
 <span id="a">Indigoox4@</span>:<span id="b">~</span><span id="c">$</span> cd Indigoo<!-- -->
 <span id="a">Indigoox4@</span>:<span id="b">~</span><span id="c">$</span> cat <!---->indigoox4.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
-"<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+"<span id="k">Hi am Web & Software Developer</span>". <!-- sjkfhskjf -->
 a There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
