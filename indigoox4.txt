@@ -1,15 +1,3 @@
-<font color="#FF6600" size="2" FACE="Comic Sans MS"><SCRIPT LANGUAGE="JavaScript">
-<!-- JavaScript
-<!-- // Array ofmonth Names
-       var monthNames = new Array( "January","February","March","April","May","June","July","August","September","October","November","December");
-       var dayNames = new Array( "Sunday,","Monday,","Tuesday,","Wednesday,","Thursday,","Friday,","Saturday,");
-       var now = new Date(); 
-       thisYear = now.getYear();
-       if(thisYear < 1900) {thisYear += 1900}; // corrections if Y2K display problem
-       document.write(dayNames[now.getDay()]+ " " + thisYear + " " + monthNames[now.getMonth()] + " " + now.getDate());
-// -->
-// - JavaScript - --&gt;
-</SCRIPT>
 <span id="a">Indigoox4@</span>:<span id="b">~</span><span id="c">$</span> cd Indigoo<!-- -->
 <span id="a">Indigoox4@</span>:<span id="b">~</span><span id="c">$</span> cat <!---->indigoox4.txt<br/><br/>
 "<span id="k">Hi.</span>". <!-- sjkfhskjf -->
